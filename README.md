@@ -3,7 +3,7 @@
 
 -   🌱 I’m currently learning **Java with Springboot**
 
--   👨‍💻 All of my projects are available at [www.miguedev.com](www.miguedev.com)
+-   👨‍💻 All of my projects are available at [www.miguedev.com](https://www.miguedev.com)
 
 -   📫 How to reach me **hi@miguedev.com**
 
