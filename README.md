@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">A Fullstack developer from Argentina</h3>
 
--   🌱 I’m currently learning **Java with Springboot**
+-   🌱 I’m currently learning **SAP CAP**
 
 -   👨‍💻 All of my projects are available at [www.miguedev.com](https://www.miguedev.com)
 
