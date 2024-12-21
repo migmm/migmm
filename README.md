@@ -3,10 +3,6 @@
 
 -   🌱 I’m currently learning **SAP CAP**
 
--   👨‍💻 All of my projects are available at [www.miguedev.com](https://www.miguedev.com)
-
--   📫 How to reach me **hi@miguedev.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/miguelmiche/" target="blank">
